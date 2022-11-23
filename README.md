@@ -1,11 +1,9 @@
-<h1>Smart Brain</h1>
-
 ## Features
 1. user can register an email and sign in to the APP
 2. User can paste an image url in the search box and detect the face of the image
 3. user can see their current rank when they login
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
